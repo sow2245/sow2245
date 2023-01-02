@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Punuru Sowmya Reddy
+- 👀 I’m interested in Front-End Technologies
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on web based application 
+- 📫 How to reach me https://www.linkedin.com/in/punuru-sowmya-reddy-02145b77/
